@@ -5,7 +5,7 @@ import Footer from './components/Footer';
 
 function App() {
 	return (
-		<div className='ui container' style={{ marginTop: '10rem' }}>
+		<div className='ui container'>
 			<Header />
 			<Forms />
 			<Footer />

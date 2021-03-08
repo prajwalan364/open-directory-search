@@ -28,7 +28,7 @@ const Forms = () => {
 	};
 
 	return (
-		<div className='ui grid'>
+		<div className='ui grid mobile'>
 			<div
 				className='column ten wide'
 				style={{ marginLeft: 'auto', marginRight: 'auto' }}

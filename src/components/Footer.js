@@ -5,7 +5,10 @@ const Footer = () => {
 		<div
 			style={{ marginTop: '3rem', display: 'flex', justifyContent: 'center' }}
 		>
-			<h3 style={{ fontFamily: 'Ubuntu', fontWeight: '100' }}>
+			<h3
+				className='footer'
+				style={{ fontFamily: 'Ubuntu', fontWeight: '100' }}
+			>
 				<i className='code icon'></i> with <i className='heart icon'></i> By{' '}
 				<a
 					style={{ cursor: 'pointer', color: 'inherit' }}
